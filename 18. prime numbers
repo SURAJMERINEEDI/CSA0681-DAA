@@ -9,6 +9,7 @@ int main()
     {
         isPrime = 1; 
         for(j=2; j<=i/2; j++)
+	
         {
              if(i%j==0)
             {
